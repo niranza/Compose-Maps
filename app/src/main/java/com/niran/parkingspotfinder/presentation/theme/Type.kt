@@ -1,4 +1,4 @@
-package com.niran.parkingspotfinder.ui.theme
+package com.niran.parkingspotfinder.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
